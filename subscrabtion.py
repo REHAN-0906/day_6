@@ -1,0 +1,11 @@
+a=2505
+b=1414
+c=90.90
+d=11.1
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+f=a-b-c-d
+print("a-b-c-d=",f)
+print(type(f))
